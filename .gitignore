@@ -57,3 +57,4 @@ venv/
 # Ignore system-specific hidden files
 *.ini
 *.db
+Data/
