@@ -1,0 +1,10 @@
+
+{
+	"participant_id" : {"Description" : "index of participant"},
+	"age" : {"Description" : "age of participant"},
+	"sex" : {"Description" : "sex of participant"},
+	"task_1" : {"Description" : "whether this participant participated task_semantic violation, 1 indicates yes, 0 indicates no"},
+	"task_2" : {"Description" : "whether this participant participated task_lexical frequency, 1 indicates yes, 0 indicates no"},
+	"task_3" : {"Description" : "whether this participant participated task_contextual prediction, 1 indicates yes, 0 indicates no"},
+	"task_4" : {"Description" : "whether this participant participated task_synonym antonym, 1 indicates yes, 0 indicates no"}
+  }

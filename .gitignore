@@ -1,0 +1,59 @@
+# Ignore the data folder and large files
+Data/
+*.h5
+*.mat
+*.csv
+*.tsv
+*.zip
+
+# Ignore backup files and temporary files
+*.bak
+*.tmp
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Ignore temporary Word/Office files
+~$*.docx
+~$*.xlsx
+
+# Python specific ignores
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Spyder IDE specific
+.spyderproject
+.spyproject
+.spyderworkspace
+.history/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+*.env
+
+# Git ignore file itself (in case you edit it in a temp editor)
+.gitignore~
+
+# Ignore system-specific hidden files
+*.ini
+*.db
