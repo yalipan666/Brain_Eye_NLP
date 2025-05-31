@@ -25,7 +25,7 @@ This repository contains the code for the "Brain_Eye_NLP" project, which investi
 
 3. Run the main script:
     ```bash
-    python script_name.py
+    python OrganizeData_to_BIDS.py
     ```
 
 Note: Large data files (`*.h5`) are not uploaded to GitHub. Please contact the author if you require access.
